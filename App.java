@@ -27,6 +27,7 @@ public class App
 				} catch (IOException e) {
 					// TODO Auto-generated catch block
 					e.printStackTrace();
+					System.out.println("branch1 message");
 				}
             }
     	}
